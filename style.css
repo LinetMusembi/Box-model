@@ -1,0 +1,11 @@
+.container{
+    border-style: solid;
+    padding: 20px;
+    margin: 5%;
+    border-color: blueviolet;
+    font-style: italic;
+}
+.Box{
+    border-style: dotted;
+    border-color: blueviolet;
+}
